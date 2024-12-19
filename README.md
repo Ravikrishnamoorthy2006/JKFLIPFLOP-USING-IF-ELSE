@@ -1,6 +1,6 @@
 # JKFLIPFLOP-USING-IF-ELSE
 
-Name : Ravikrishnamoorthy.D
+Name : D.Ravikrishnamoorthy
 
 Ref No : 24008789
 
